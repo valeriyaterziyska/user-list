@@ -30,6 +30,8 @@ function App() {
 
                     <Search />
                     <UserList users={users} />
+
+                    <button className="btn-add btn">Add new user</button>
                 </section>
             </main>
 
